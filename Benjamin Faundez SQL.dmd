@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Benjamin Faundez SQL" id="4F8DF2A9-5532-73BE-0F14-EFD5CC00FB2C" version="3.5">
+<createdBy>benjamincristobalfaundezmartinez</createdBy>
+<createdTime>2025-08-17 23:09:52 UTC</createdTime>
+<ownerDesignName>Benjamin Faundez SQL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>4F8DF2A9-5532-73BE-0F14-EFD5CC00FB2C</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="B7AAFADD-4EF3-C851-C698-3BA730F74430">
+<designStoragePath>/asignaturas_profesores</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="B22F3869-38DD-A1B9-FCC4-69E254FD54F7">
+<designStoragePath>/asignaturas_profesores</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="7093073F-5D4F-EF4D-360C-97C23A863318">
+<designStoragePath>/asignaturas_profesores</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
